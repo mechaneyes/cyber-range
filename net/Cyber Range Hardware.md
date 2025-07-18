@@ -26,6 +26,8 @@ aliases:
 
 
 
+<div>🌐 <span class="datetime">2025.07.15—10:43:37 -04:00 — Tuesday</span> 🌐</div>
+
 
 # Computers
 
@@ -35,7 +37,7 @@ i5-9500T 2.20Ghz
 16GB RAM 
 256GB SSD 
 
-
+<br><br>
 
 ## Lenovo ThinkCentre M720q
 
@@ -43,7 +45,7 @@ i5-9400T 1.8GHz
 16GB 
 256GB NVMe
 
-
+<br><br>
 
 ## Lenovo ThinkCentre M720q
 
@@ -51,7 +53,7 @@ i5-9400T 1.8GHz
 8GB 
 256GB SSD
 
-
+<br><br>
 
 ## Intel NUC Desktop NUC8i5BEH
 
@@ -60,7 +62,7 @@ Intel i5-8259U CPU (Coffee Lake), quad-core with hyperthreading, up to 3.8 GHz
 1TB SSD
 
 
-
+<br><br><br><br>
 
 
 # Upgrades eminent

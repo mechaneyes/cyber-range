@@ -20,11 +20,7 @@ aliases:
 
 [ghostrecon · DHCP Config](ghostrecon%20·%20DHCP%20Config.md)
 
-
-
-
-
-
+<br><br>
 
 The rules below create **complete isolation** with access as specified:
 
@@ -54,9 +50,7 @@ The rules below create **complete isolation** with access as specified:
 
 This setup provides a true **air-gapped cyber range** that only touches the internet, while keeping the production network management intact. The lab is completely contained!
 
-
-
-
+<br>
 
 ## Temporary access rule
 
@@ -110,10 +104,7 @@ Configuring access while setting up the range. This will be disabled after confi
 - Or double-click rule → check **Disabled** box
 
 
-
-
-
-
+<br><br>
 
 # Code
 ### On Killing Machine
@@ -174,8 +165,7 @@ Configuring access while setting up the range. This will be disabled after confi
     log=yes src-address=192.168.200.0/24
 ```
 
-
-
+<br><br>
 
 ## Voices
 #### by [John Talabot](https://perm-vac.bandcamp.com/)

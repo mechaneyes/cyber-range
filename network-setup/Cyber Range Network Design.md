@@ -18,18 +18,18 @@ aliases:
 
 [Cyber Range Hardware](Cyber%20Range%20Hardware.md)
 
-
-
-
+<br>
 
 > [!NOTE]  
 > This design was built assuming the Mikrotik hEX would serve as my main router. I also have the RB2011UiAS which will now handle that job, so the hEX will serve primarily as my firewall for now;
 
+<br>
 
 You want complete isolation for the vulnerable VMs to prevent any potential lateral movement or security issues.
 
 Based on existing segmentation pattern, this is the approach:
 
+<br>
 
 # Network Design for Cyber Range / Cybersecurity Lab
 
@@ -39,8 +39,7 @@ Based on existing segmentation pattern, this is the approach:
 - Proxmox host: `192.168.200.1`
 - Vulnerable VMs: `192.168.200.10-254`
 
-
-
+<br>
 
 ## Pentesting VMs
 
@@ -63,7 +62,7 @@ For the penetration testing VMs, you have a few strategic options:
 - **Lab Proxmox**: `192.168.200.1` (vulnerable VMs only)
 - **Pentest Box**: `192.168.88.x` (separate machine for Kali, etc.)
 
-
+<br><br>
 
 # Network Layout 
 
@@ -82,12 +81,14 @@ For the penetration testing VMs, you have a few strategic options:
 2. **Plug back into main network** → Normal internet, work, etc.
 
 
-
 ### [[⚜️ ghostrecon - firewall rules for complete isolation]]
 
-
+<br>
 
 These rules create **complete isolation** with the exact access you need:
+
+
+<br><br>
 
 ## What This Configuration Does:
 

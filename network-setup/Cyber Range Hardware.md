@@ -22,11 +22,7 @@ aliases:
 [Cyber Range Network Design](Cyber%20Range%20Network%20Design.md)
 
 
-
-
-
-
-<div>🌐 <span class="datetime">2025.07.15—10:43:37 -04:00 — Tuesday</span> 🌐</div>
+<br><br>
 
 
 # Computers
@@ -37,7 +33,7 @@ i5-9500T 2.20Ghz
 16GB RAM 
 256GB SSD 
 
-<br><br>
+<br>
 
 ## Lenovo ThinkCentre M720q
 
@@ -45,7 +41,7 @@ i5-9400T 1.8GHz
 16GB 
 256GB NVMe
 
-<br><br>
+<br>
 
 ## Lenovo ThinkCentre M720q
 
@@ -53,7 +49,7 @@ i5-9400T 1.8GHz
 8GB 
 256GB SSD
 
-<br><br>
+<br>
 
 ## Intel NUC Desktop NUC8i5BEH
 
@@ -62,7 +58,7 @@ Intel i5-8259U CPU (Coffee Lake), quad-core with hyperthreading, up to 3.8 GHz
 1TB SSD
 
 
-<br><br><br><br>
+<br><br>
 
 
 # Upgrades eminent
@@ -70,7 +66,7 @@ Intel i5-8259U CPU (Coffee Lake), quad-core with hyperthreading, up to 3.8 GHz
 2 packs of 32BG RAM upgrades on the way. Security Onion which I'll be using for defense on both the cyber range and in production will perform much better with that memory ceiling raised.
 
 
-
+<br><br>
 
 # Networking
 
@@ -92,7 +88,7 @@ https://mikrotik.com/product/RB2011UiAS-2HnD-IN
 [$129 on Amazon](https://www.amazon.com/dp/B0843ST7C3?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 
-
+<br>
 
 ## Firewall
 
@@ -117,7 +113,7 @@ https://mikrotik.com/product/RB750UPr2
 
 [$73 on Amazon](https://www.amazon.com/dp/B07HHF2C48?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
-
+<br><br>
 
 # https://mikrotik.com/products/group/switches
 

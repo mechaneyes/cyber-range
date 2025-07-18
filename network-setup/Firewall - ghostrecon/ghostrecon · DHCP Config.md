@@ -24,8 +24,7 @@ aliases:
 
 [ghostrecon-firewall-rules-ip222-20250715.0.rsc](ghostrecon-firewall-rules-ip222-20250715.0.rsc.md)
 
-
-
+<br><br>
 
 ## Check DHCP configuration:
 
@@ -41,7 +40,7 @@ aliases:
 /ip pool print
 ```
 
-
+<br><br>
 
 # Setup DHCP server
 
@@ -74,10 +73,7 @@ The complete sequence would be:
 
 Now Proxmox should get an IP automatically when connected to the lab network!
 
-
-
-
-
+<br><br>
 
 # Check via `print`
 
@@ -93,9 +89,7 @@ Now Proxmox should get an IP automatically when connected to the lab network!
 
 ![[Pasted image 20250716155714.png]]
 
-
-
-
+<br><br>
 ## Current Status ✅
 
 ### DHCP Server:
@@ -116,6 +110,8 @@ Now Proxmox should get an IP automatically when connected to the lab network!
 
 - `default-dhcp`: `192.168.88.10-192.168.88.254`
 - **`range-pool`**: **`192.168.200.10-192.168.200.100`** ✅
+
+<br><br>
 
 ## To do now:
 

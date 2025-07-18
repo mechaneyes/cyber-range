@@ -18,9 +18,7 @@ aliases:
 
 [Cyber Range Hardware](Cyber%20Range%20Hardware.md)
 
-
-
-
+<br><br>
 
 # Cyber Range Design:
 
@@ -30,7 +28,7 @@ aliases:
 - 256GB might be tight with two full VMs. Consider:
     - External USB 3.0/USB-C SSD for VM storage
     - Or prioritize one distro (Kali is more comprehensive)
-
+<br>
 
 ## ThinkCentre #2 (Victim Network):
 
@@ -38,29 +36,24 @@ aliases:
 - 8GB RAM severely limits how many Windows VMs you can run simultaneously
 - Windows 10/11 VMs need 4-8GB each
 - **Critical:** Upgrade this to at least 16GB, ideally 32GB
-
+<br>
 
 ## Sentinel (Monitoring):
 
 - Raspberry Pi 4 
-
+<br>
 
 ## Defensive Tools
 
 - Security Onion on Dell OptiPlex
-
-
+<br><br>
 
 # To Do
 
 1. **Immediate:** Upgrade ThinkCentre #2 RAM to 16GB minimum
 2. **Storage:** Add external SSDs for VM storage on both ThinkCentres
 3. **VM Allocation:** With 8GB current RAM, you can maybe run one Windows VM at a time
-
-
-
-
-
+<br><br>
 
 # Prod Security Onion
 
@@ -70,9 +63,7 @@ aliases:
 - The 1TB storage is excellent for log retention
 - 32GB RAM allows for better performance with larger log volumes
 
-
-
-
+<br><br>
 
 # Soundtrack
 

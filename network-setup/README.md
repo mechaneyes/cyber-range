@@ -11,4 +11,4 @@ Home on the Cyber Range
 
 ## Firewall setup
 
-[README](Projects/Security/Cyber%20Range/Network%20Setup/Firewall%20-%20ghostrecon/README.md)
+[Firewall · ghostrecon](Firewall%20-%20ghostrecon/README.md)

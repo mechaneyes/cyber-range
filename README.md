@@ -7,5 +7,5 @@ I'll be detailing the construction and operation of the cyber range I'm currentl
 
 As of now I've got my firewall running and the lab environment is completely isolated from my production environment, it's only access out being to the internet.
 
-## [Network Setup](Projects/Security/Cyber%20Range/Network%20Setup/README.md)
+## [Network Setup](Network%20Setup/README.md)
 

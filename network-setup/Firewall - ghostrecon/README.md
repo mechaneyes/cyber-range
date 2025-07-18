@@ -12,6 +12,6 @@ Internal name: ghostrecon
 
 ## Network setup
 
-[README](Projects/Security/Cyber%20Range/Network%20Setup/README.md)
+[Network setup](../README.md)
 
 
